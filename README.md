@@ -1,2 +1,2 @@
 # alx-pre_course
-my first readme
+i am a software engineer 
